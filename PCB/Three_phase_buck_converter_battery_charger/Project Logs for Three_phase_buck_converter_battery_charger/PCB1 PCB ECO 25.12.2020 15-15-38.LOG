@@ -1,0 +1,30 @@
+Added Component: Designator=J1(1729131)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/1729131.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1729131"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1729131"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1729131/?qs=GFUSqQMLmmkspw%2F%2FW6PC3g%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J2(1715721)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1715721"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1715721/phoenix-contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/1715721.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "13.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1715721"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1715721"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1715721/?qs=BYlwlsDsB%2FqgmKyTCSucHg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD3_3 Pin=J1-1
+Added Pin To Net: NetName=NetD2_3 Pin=J1-2
+Added Pin To Net: NetName=NetD1_3 Pin=J1-3
+Added Pin To Net: NetName=NetD8_1 Pin=D8-1
+Added Pin To Net: NetName=NetD8_1 Pin=J2-1
+Added Net: Name=NetD8_1
+Added Member To Class: ClassName=Rectifier Member=Component C1 Cap_470uF
+Added Member To Class: ClassName=Rectifier Member=Component J1 1729131
+Added Member To Class: ClassName=Converter Member=Component J2 1715721
+Added Member To Class: ClassName=Converter Member=Component L1 744373965101
+Added Member To Class: ClassName=Converter Member=Component Q1 FQD6N50CTM
+Added Member To Class: ClassName=Converter Member=Component Q2 SI2356DS-T1-GE3

@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=24V+ Pin=D8-1
+Added Pin To Net: NetName=24V+ Pin=J2-1
+Added Pin To Net: NetName=24V+ Pin=IC?-5
+Added Pin To Net: NetName=24V+ Pin=IC?-12
+Added Net: Name=24V+
+Added Pin To Net: NetName=24V- Pin=J2-2
+Added Net: Name=24V-
+Added Member To Class: ClassName=Controller Member=Component IC? TL594IDR

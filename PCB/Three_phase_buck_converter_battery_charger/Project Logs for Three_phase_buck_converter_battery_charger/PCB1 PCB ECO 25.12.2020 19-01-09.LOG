@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=L1 NewDesignator=L?
+Change Net Name : Old Net Name=NetL1_1 New Net Name=NetL?_1
+Added Member To Class: ClassName=Rectifier Member=Component C1 ALS70A471DB500
+Added Member To Class: ClassName=Converter Member=Component L? PM2120-102K-RC

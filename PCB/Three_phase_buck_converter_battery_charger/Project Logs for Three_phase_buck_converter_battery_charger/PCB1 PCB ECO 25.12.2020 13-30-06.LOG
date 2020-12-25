@@ -1,0 +1,14 @@
+Removed Member From Class: ClassName=Rectifier Member=C?
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Added Component: Designator=C2(ALS70A471DB500)
+Add component (AddParameter): Name = "Category"; Value = "Aluminum Electrolytic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://api.kemet.com/component-edge/download/datasheet/ALS70A471DB500.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://api.kemet.com/component-edge/download/datasheet/ALS70A471DB500.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ALS70A471DB500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=12,69000, 10=12,06000, 50=10,15560, 100=9,52090, 500=8,44184, 1000=7,93406, 2500=7,77538, 5000=7,61670 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-14319-ND"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Rectifier Member=Component C2 Cap_470uF

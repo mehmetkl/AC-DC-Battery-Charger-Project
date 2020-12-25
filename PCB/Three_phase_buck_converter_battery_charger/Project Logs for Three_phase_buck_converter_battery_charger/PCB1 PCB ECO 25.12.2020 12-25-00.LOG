@@ -1,0 +1,10 @@
+Added Component: Designator=Q?(SOT95P237X112-3N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SI2356DS-T1-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/si2356ds-t1-ge3/vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/62893/si2356ds.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.12mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SI2356DS-T1-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "78-SI2356DS-T1-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/SI2356DS-T1-GE3/?qs=3vb5YHheJT2Tl6eegNSiyQ%3D%3D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Rectifier Member=Component Q? SI2356DS-T1-GE3

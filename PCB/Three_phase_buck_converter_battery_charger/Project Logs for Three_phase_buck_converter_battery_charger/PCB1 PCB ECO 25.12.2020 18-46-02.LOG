@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetC2_2 Pin=L1-2
+Change Component Comment : Designator=C1 Old Comment=Cap_470uF New Comment=ALS70A471DB500
+Added Component: Designator=L?(PM2120271KRC)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.bourns.com/pdfs/pm2120_series.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "20.32mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PM2120-102K-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC2_2 Pin=L?-2
+Added Pin To Net: NetName=NetL?_1 Pin=L?-1
+Added Pin To Net: NetName=NetL?_1 Pin=Q1-3
+Added Pin To Net: NetName=NetL?_1 Pin=Q2-3
+Added Net: Name=NetL?_1
+Added Member To Class: ClassName=Rectifier Member=Component C1 ALS70A471DB500
+Added Member To Class: ClassName=Converter Member=Component L? PM2120-102K-RC
+Added Member To Class: ClassName=Converter Member=Component Q1 FQD6N50CTM
+Added Member To Class: ClassName=Converter Member=Component Q2 SI2356DS-T1-GE3

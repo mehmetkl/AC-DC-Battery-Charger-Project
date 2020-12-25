@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q2
+Added Member To Class: ClassName=Rectifier Member=Component C1 Cap_470uF
+Added Member To Class: ClassName=Converter Member=Component L1 744373965101
+Added Member To Class: ClassName=Converter Member=Component Q1 FQD6N50CTM
