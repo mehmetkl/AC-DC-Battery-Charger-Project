@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=Rectifier- Pin=Rsens-1
+Removed Pin From Net: NetName=24V- Pin=Rsens-2
+Removed Member From Class: ClassName=Converter Member=Rsens
+Added Component: Designator=R1(RESC1632X70N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RCWE0612R619FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rcwe0612r619fkea/vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/RCWE0612R619FKEA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RCWE0612R619FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-RCWE0612R619FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/RCWE0612R619FKEA/?qs=bvCpHSZmQjl4FfGNZ007qQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Rectifier- Pin=R1-1
+Added Pin To Net: NetName=24V- Pin=R1-2
+Added Member To Class: ClassName=Rectifier Member=Component C2 470uF
+Added Member To Class: ClassName=Converter Member=Component R1 RCWE0612R619FKEA

@@ -1,0 +1,45 @@
+Removed Member From Class: ClassName=Controller Member=C2R
+Added Component: Designator=Cl1(CAPC3225X105N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.com/pbs/datasheet/885012209047.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "885012209047"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-885012209047"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/885012209047/?qs=0KOYDY2FL29YEbVS2nM5KQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Cl2(CAPC3225X105N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.com/pbs/datasheet/885012209047.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "885012209047"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-885012209047"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/885012209047/?qs=0KOYDY2FL29YEbVS2nM5KQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(SOT95P280X120-5N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/XC6210B302MR-G.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Torex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "XC6210B302MR-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "865-XC6210B302MR-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Torex-Semiconductor/XC6210B302MR-G?qs=AsjdqWjXhJ%2F8LVwdgROYaw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=24V+ Pin=Cl1-1
+Added Pin To Net: NetName=Rectifier- Pin=Cl1-2
+Added Pin To Net: NetName=Rectifier- Pin=Cl2-2
+Added Pin To Net: NetName=24V+ Pin=Q3-1
+Added Pin To Net: NetName=Rectifier- Pin=Q3-2
+Added Pin To Net: NetName=24V+ Pin=Q3-4
+Added Pin To Net: NetName=18V Pin=Cl2-1
+Added Pin To Net: NetName=18V Pin=Q3-5
+Added Pin To Net: NetName=18V Pin=IC1-12
+Added Pin To Net: NetName=18V Pin=IC2-5
+Added Net: Name=18V
+Added Member To Class: ClassName=Controller Member=Component C2 2.2u
+Added Member To Class: ClassName=Controller Member=Component Cl1 1u
+Added Member To Class: ClassName=Controller Member=Component Cl2 1u
+Added Member To Class: ClassName=Controller Member=Component Q3 LDO
+Added Member To Class: ClassName=Controller Member=Component R1 2k
+Added Member To Class: ClassName=Converter Member=Component Rsens RCWE0612R619FKEA

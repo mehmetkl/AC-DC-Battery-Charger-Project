@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=24V+ Pin=D8-1
+Removed Pin From Net: NetName=NetC3_1 Pin=D8-2
+Removed Member From Class: ClassName=Converter Member=D8
+Added Component: Designator=D7(DIOM7959X250N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ES3A-13-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/es3a-13-f/diodes-incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.arrow.com/en/products/es3a-13-f/diodes-incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ES3A-13-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "621-ES3A-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/ES3A-13-F/?qs=fsGQ151tk6Wkygd1WaXOlQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=24V+ Pin=D7-1
+Added Pin To Net: NetName=NetC3_1 Pin=D7-2
+Added Member To Class: ClassName=Rectifier Member=Component C2 470uF
+Added Member To Class: ClassName=Converter Member=Component D7 ES3A-13-F
