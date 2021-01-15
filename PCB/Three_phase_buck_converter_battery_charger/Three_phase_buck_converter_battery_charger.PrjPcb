@@ -23,11 +23,13 @@ DefaultPcbPcad=0
 ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
+AutoSheetNumbering=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
+IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=Project Outputs for Three_phase_buck_converter_battery_charger
 LogFolderPath=
 ManagedProjectGUID=
@@ -182,9 +184,9 @@ GlobalBookmarks=0
 ExportBOM=-1
 TemplateFilename=Board Stack Report.XLT
 TemplateStoreRelative=-1
-PCB_PrintColor=0
+PCB_PrintColor=1
 SCH_PrintColor=0
-PrintQuality=-4
+PrintQuality=-3
 SCH_ShowNoErc=-1
 SCH_ShowParameter=-1
 SCH_ShowProbes=-1
@@ -1059,6 +1061,8 @@ MultiChannelAlternate=2
 AlternateItemFail=3
 Type122=2
 Type123=1
+Type124=1
+Type125=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -1101,64 +1105,16 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
-ComponentLibIdentifierKind0=Any
-ComponentLibraryIdentifier0=
-ComponentDesignItemID0=1715721
-ComponentSymbolReference0=1715721
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=Schlib1.SchLib
+ComponentDesignItemID0=450MXH270MEFCSN30X30
+ComponentSymbolReference0=450MXH270MEFCSN30X30
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Any
-ComponentLibraryIdentifier1=
-ComponentDesignItemID1=1729131
-ComponentSymbolReference1=1729131
-ComponentUpdate1=1
-ComponentIsDeviceSheet1=0
-ComponentLibIdentifierKind2=Any
-ComponentLibraryIdentifier2=
-ComponentDesignItemID2=885012207087
-ComponentSymbolReference2=885012207087
-ComponentUpdate2=1
-ComponentIsDeviceSheet2=0
-ComponentLibIdentifierKind3=Any
-ComponentLibraryIdentifier3=
-ComponentDesignItemID3=AS4PJ-M3_86A
-ComponentSymbolReference3=AS4PJ-M3_86A
-ComponentUpdate3=1
-ComponentIsDeviceSheet3=0
-ComponentLibIdentifierKind4=Any
-ComponentLibraryIdentifier4=
-ComponentDesignItemID4=FAD7191M1X
-ComponentSymbolReference4=FAD7191M1X
-ComponentUpdate4=1
-ComponentIsDeviceSheet4=0
-ComponentLibIdentifierKind5=Any
-ComponentLibraryIdentifier5=
-ComponentDesignItemID5=PM2120-102K-RC
-ComponentSymbolReference5=PM2120-102K-RC
-ComponentUpdate5=1
-ComponentIsDeviceSheet5=0
-ComponentLibIdentifierKind6=Any
-ComponentLibraryIdentifier6=
-ComponentDesignItemID6=TSSW3U45_RVG
-ComponentSymbolReference6=TSSW3U45_RVG
-ComponentUpdate6=1
-ComponentIsDeviceSheet6=0
-ComponentLibIdentifierKind7=Library Name And Type
-ComponentLibraryIdentifier7=Schlib1.SchLib
-ComponentDesignItemID7=ALS70A471DB500
-ComponentSymbolReference7=ALS70A471DB500
-ComponentUpdate7=1
-ComponentIsDeviceSheet7=0
-ComponentLibIdentifierKind8=Library Name And Type
-ComponentLibraryIdentifier8=Schlib1.SchLib
-ComponentDesignItemID8=FQD6N50CTM
-ComponentSymbolReference8=FQD6N50CTM
-ComponentUpdate8=1
-ComponentIsDeviceSheet8=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1172,148 +1128,19 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Arrow Part Number
+ParameterName0=Comment
 ParameterUpdate0=1
-ParameterName1=Arrow Price/Stock
+ParameterName1=Component Kind
 ParameterUpdate1=1
-ParameterName2=Case/Package
+ParameterName2=Description
 ParameterUpdate2=1
-ParameterName3=Category
+ParameterName3=Library Reference
 ParameterUpdate3=1
-ParameterName4=Comment
-ParameterUpdate4=1
-ParameterName5=Component Kind
-ParameterUpdate5=1
-ParameterName6=ComponentLink1Description
-ParameterUpdate6=1
-ParameterName7=ComponentLink1URL
-ParameterUpdate7=1
-ParameterName8=ComponentLink2Description
-ParameterUpdate8=1
-ParameterName9=ComponentLink2URL
-ParameterUpdate9=1
-ParameterName10=ComponentLink3Description
-ParameterUpdate10=1
-ParameterName11=ComponentLink3URL
-ParameterUpdate11=1
-ParameterName12=Continuous Drain Current (ID)
-ParameterUpdate12=1
-ParameterName13=Current Rating
-ParameterUpdate13=1
-ParameterName14=Datasheet Link
-ParameterUpdate14=1
-ParameterName15=Description
-ParameterUpdate15=1
-ParameterName16=Drain to Source Breakdown Voltage
-ParameterUpdate16=1
-ParameterName17=Drain to Source Resistance
-ParameterUpdate17=1
-ParameterName18=Drain to Source Voltage (Vdss)
-ParameterUpdate18=1
-ParameterName19=Element Configuration
-ParameterUpdate19=1
-ParameterName20=Fall Time
-ParameterUpdate20=1
-ParameterName21=Gate to Source Voltage (Vgs)
-ParameterUpdate21=1
-ParameterName22=Height
-ParameterUpdate22=1
-ParameterName23=Input Capacitance
-ParameterUpdate23=1
-ParameterName24=Lead Free
-ParameterUpdate24=1
-ParameterName25=Library Reference
-ParameterUpdate25=1
-ParameterName26=Manufacturer
-ParameterUpdate26=1
-ParameterName27=Manufacturer Part Number
-ParameterUpdate27=1
-ParameterName28=Manufacturer_Name
-ParameterUpdate28=1
-ParameterName29=Manufacturer_Part_Number
-ParameterUpdate29=1
-ParameterName30=Max Operating Temperature
-ParameterUpdate30=1
-ParameterName31=Max Power Dissipation
-ParameterUpdate31=1
-ParameterName32=Min Operating Temperature
-ParameterUpdate32=1
-ParameterName33=Mount
-ParameterUpdate33=1
-ParameterName34=Mouser Part Number
-ParameterUpdate34=1
-ParameterName35=Mouser Price/Stock
-ParameterUpdate35=1
-ParameterName36=Mouser2 Part Number
-ParameterUpdate36=1
-ParameterName37=Mouser2 Price/Stock
-ParameterUpdate37=1
-ParameterName38=Number of Elements
-ParameterUpdate38=1
-ParameterName39=Number of Pins
-ParameterUpdate39=1
-ParameterName40=Package Quantity
-ParameterUpdate40=1
-ParameterName41=Packaging
-ParameterUpdate41=1
-ParameterName42=Power Dissipation
-ParameterUpdate42=1
-ParameterName43=Pricing 1
-ParameterUpdate43=1
-ParameterName44=Radiation Hardening
-ParameterUpdate44=1
-ParameterName45=Rds On Max
-ParameterUpdate45=1
-ParameterName46=Rise Time
-ParameterUpdate46=1
-ParameterName47=RoHS
-ParameterUpdate47=1
-ParameterName48=Stock 1
-ParameterUpdate48=1
-ParameterName49=Supplier 1
-ParameterUpdate49=1
-ParameterName50=Supplier Part Number 1
-ParameterUpdate50=1
-ParameterName51=Turn-Off Delay Time
-ParameterUpdate51=1
-ParameterName52=Turn-On Delay Time
-ParameterUpdate52=1
-ParameterName53=Voltage Rating (DC)
-ParameterUpdate53=1
-ParameterName54=Weight
-ParameterUpdate54=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=1715721
+ModelName0=450MXH270MEFCSN30X30
 ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=1729131
-ModelUpdate1=1
-ModelType2=PCBLIB
-ModelName2=ALS70A471DB500
-ModelUpdate2=1
-ModelType3=PCBLIB
-ModelName3=CAPC2012X90N
-ModelUpdate3=1
-ModelType4=PCBLIB
-ModelName4=DPAK3
-ModelUpdate4=1
-ModelType5=PCBLIB
-ModelName5=Model Name
-ModelUpdate5=1
-ModelType6=PCBLIB
-ModelName6=PM2120271KRC
-ModelUpdate6=1
-ModelType7=PCBLIB
-ModelName7=SODFL3718X102N
-ModelUpdate7=1
-ModelType8=PCBLIB
-ModelName8=SOIC127P600X175-14N
-ModelUpdate8=1
-ModelType9=PCBLIB
-ModelName9=V10PN50M387A
-ModelUpdate9=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
@@ -1322,31 +1149,31 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [Comparison Options]
-ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
-ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|UseName=0|InclAllRules=0
+ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
 
 [SmartPDF]
 PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration_Name1=OutputConfigurationParameter1
-Configuration_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView
+Configuration_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView|DocumentPath=C:\Users\Ali Belli\Documents\EE463-Term-Project\PCB\Three_phase_buck_converter_battery_charger\PCB1.PcbDoc
 Configuration_Name2=OutputConfigurationParameter2
-Configuration_Item2=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Multilayer Composite Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=True|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
+Configuration_Item2=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Multilayer Composite Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=True|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\Ali Belli\Documents\EE463-Term-Project\PCB\Three_phase_buck_converter_battery_charger\PCB1.PcbDoc
 Configuration_Name3=OutputConfigurationParameter3
-Configuration_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Ali Belli\Documents\EE463-Term-Project\PCB\Three_phase_buck_converter_battery_charger\PCB1.PcbDoc
 Configuration_Name4=OutputConfigurationParameter4
-Configuration_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Ali Belli\Documents\EE463-Term-Project\PCB\Three_phase_buck_converter_battery_charger\PCB1.PcbDoc
 Configuration_Name5=OutputConfigurationParameter5
-Configuration_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Ali Belli\Documents\EE463-Term-Project\PCB\Three_phase_buck_converter_battery_charger\PCB1.PcbDoc
 Configuration_Name6=OutputConfigurationParameter6
-Configuration_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MultiLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MultiLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Ali Belli\Documents\EE463-Term-Project\PCB\Three_phase_buck_converter_battery_charger\PCB1.PcbDoc
 Configuration_Name7=OutputConfigurationParameter7
-Configuration_Item7=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration_Item7=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Ali Belli\Documents\EE463-Term-Project\PCB\Three_phase_buck_converter_battery_charger\PCB1.PcbDoc
 Configuration_Name8=OutputConfigurationParameter8
-Configuration_Item8=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration_Item8=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Ali Belli\Documents\EE463-Term-Project\PCB\Three_phase_buck_converter_battery_charger\PCB1.PcbDoc
 Configuration_Name9=OutputConfigurationParameter9
-Configuration_Item9=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration_Item9=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Ali Belli\Documents\EE463-Term-Project\PCB\Three_phase_buck_converter_battery_charger\PCB1.PcbDoc
 

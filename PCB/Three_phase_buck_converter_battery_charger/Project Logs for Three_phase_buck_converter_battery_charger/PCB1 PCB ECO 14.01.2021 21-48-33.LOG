@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=Rectifier- Pin=C2-1
+Removed Pin From Net: NetName=24V+ Pin=IC?-5
+Removed Pin From Net: NetName=24V+ Pin=IC?-12
+Removed Member From Class: ClassName=Converter Member=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=IC? NewDesignator=IC1
+Change Component Designator: OldDesignator=IC? NewDesignator=IC2
+Added Component: Designator=C3(CAPPM7343X310N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/doc?40002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "3.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "293D155X0050D2TE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Sprague/293D155X0050D2TE3/?qs=dG4nGvFc7P9fHhfu7ckfoQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Rectifier- Pin=C3-2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=D8-2
+Added Pin To Net: NetName=NetC3_1 Pin=L1-2
+Added Net: Name=NetC3_1
+Added Member To Class: ClassName=Rectifier Member=Component C1 470uF
+Added Member To Class: ClassName=Converter Member=Component C3 293D155X0050D2TE3
+Added Member To Class: ClassName=Controller Member=Component IC2 NCP5181DR2G

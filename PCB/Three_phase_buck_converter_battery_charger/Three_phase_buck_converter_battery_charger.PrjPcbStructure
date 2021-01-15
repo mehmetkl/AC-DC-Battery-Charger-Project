@@ -1,1 +1,3 @@
-Record=TopLevelDocument|FileName=Controller.SchDoc
+Record=TopLevelDocument|FileName=Controller.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Controller.SchDoc|FileName=Converter.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Controller.SchDoc|FileName=Rectifier.SchDoc|SheetNumber= 

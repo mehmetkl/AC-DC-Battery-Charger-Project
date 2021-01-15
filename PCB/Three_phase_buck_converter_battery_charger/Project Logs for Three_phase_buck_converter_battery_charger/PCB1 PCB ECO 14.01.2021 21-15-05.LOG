@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=Rectifier- Pin=C1-1
+Removed Pin From Net: NetName=Rectifier+ Pin=C1-2
+Removed Member From Class: ClassName=Rectifier Member=C1
+Change component parameters: Designator = "Rsens" ("Rsens"); Footprint = "J1-0603"; UniqueID = "\HWOKUZHM" ("\HWOKUZHM")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=C?(450MXH270MEFCSN30X30)
+Added Component: Designator=C?(450MXH270MEFCSN30X30)
+Added Pin To Net: NetName=Rectifier- Pin=C?-1
+Added Pin To Net: NetName=Rectifier- Pin=C?-1
+Added Pin To Net: NetName=Rectifier+ Pin=C?-2
+Added Pin To Net: NetName=Rectifier+ Pin=C?-2
+Added Member To Class: ClassName=Rectifier Member=Component C? 470uF
+Added Member To Class: ClassName=Rectifier Member=Component C? 470uF
+Added Member To Class: ClassName=Controller Member=Component IC? TL594IDR

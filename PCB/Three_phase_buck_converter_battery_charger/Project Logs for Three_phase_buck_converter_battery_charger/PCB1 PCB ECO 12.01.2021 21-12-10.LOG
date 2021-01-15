@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Rectifier+ Pin=C?-1
+Removed Pin From Net: NetName=Rectifier- Pin=C?-2
+Removed Member From Class: ClassName=Rectifier Member=C?
+Added Member To Class: ClassName=Controller Member=Component IC? TL594IDR

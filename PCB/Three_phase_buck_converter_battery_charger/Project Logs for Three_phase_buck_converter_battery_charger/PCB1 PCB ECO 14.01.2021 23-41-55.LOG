@@ -1,0 +1,200 @@
+Change Component Designator: OldDesignator=C1 NewDesignator=C1R
+Change Component Designator: OldDesignator=C2 NewDesignator=C2R
+Change Component Designator: OldDesignator=C3 NewDesignator=C1B
+Change Component Designator: OldDesignator=R1 NewDesignator=Rsens
+Added Component: Designator=C2(CAPC1005X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "C0402C225K9PACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c0402c225k9pactu/kemet-corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0402C225K9PACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "80-C0402C225K9P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/C0402C225K9PACTU/?qs=7hO1d5R1VgvbvfUaNq9%252BYQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Ct(CAPC1608X90N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/06031A100FAT2A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "06031C102KAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "581-06031C102KAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/AVX/06031C102KAZ2A?qs=ahudlVbFbatc7%2FoXGMS0PQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RCA060310R0FKEAHP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rca060310r0fkeahp/vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.vishay.com/docs/20067/rcahp.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RCA060310R0FKEAHP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC2012X65N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://docs-europe.electrocomponents.com/webdocs/13d1/0900766b813d116f.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CPF0805B49K9E1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "279-CPF0805B49K9E1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/CPF0805B49K9E1/?qs=iJVBkmKXgrkcN8Razl5GKw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC1005X40N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CRCW04025K10JNED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/crcw04025k10jned/vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/20035/dcrcwe3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRCW04025K10JNED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-CRCW0402J-5.1K-E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW04025K10JNED/?qs=DKbL89i6OEozZLVEbDGZhw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC1005X40N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CRCW04025K10JNED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/crcw04025k10jned/vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/20035/dcrcwe3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRCW04025K10JNED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-CRCW0402J-5.1K-E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW04025K10JNED/?qs=DKbL89i6OEozZLVEbDGZhw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESC1608X50N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CRCW0603510RJNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/crcw0603510rjnea/vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/20035/dcrcwe3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRCW0603510RJNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-CRCW0603J-510-E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW0603510RJNEA/?qs=F8Fiu5nZiPjhir5Uy48eTQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RCA060310R0FKEAHP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rca060310r0fkeahp/vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.vishay.com/docs/20067/rcahp.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RCA060310R0FKEAHP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R7(RESC1005X40N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/20035/dcrcwe3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRCW04029K10JNED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-CRCW0402J-9.1K-E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW04029K10JNED/?qs=lxmYmG9KtX%2FHs4nfN6Hr1A%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/28705/mcx0x0xpro.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MCT06030C2352FP500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Beyschlag/MCT06030C2352FP500/?qs=iuLH8FrUFAt7r3RaJxlO0Q%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RESC2012X60N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RN732ATTD2501B25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rn732attd2501b25/koa-speer-electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.fr/datasheet/2/219/RN73-11994.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RN732ATTD2501B25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "660-RN732ATTD2501B25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KOA-Speer/RN732ATTD2501B25/?qs=PieNiMrGZlrhcfEc14mnog%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Rf(RESC1005X40N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.farnell.com/datasheets/1716707.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "MULTICOMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MCMR04X5102FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Rt(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/28705/mcx0x0xpro.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MCT06030C2352FP500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Beyschlag/MCT06030C2352FP500/?qs=iuLH8FrUFAt7r3RaJxlO0Q%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Rectifier- Pin=Ct-2
+Added Pin To Net: NetName=Rectifier- Pin=IC1-7
+Added Pin To Net: NetName=Rectifier- Pin=IC1-9
+Added Pin To Net: NetName=Rectifier- Pin=IC1-10
+Added Pin To Net: NetName=Rectifier- Pin=IC1-13
+Added Pin To Net: NetName=Rectifier- Pin=IC2-3
+Added Pin To Net: NetName=Rectifier- Pin=R1-2
+Added Pin To Net: NetName=Rectifier- Pin=R4-2
+Added Pin To Net: NetName=Rectifier- Pin=R6-1
+Added Pin To Net: NetName=24V+ Pin=R8-1
+Added Pin To Net: NetName=Rectifier- Pin=R9-2
+Added Pin To Net: NetName=Rectifier- Pin=Rt-2
+Change Net Name : Old Net Name=NetC3_1 New Net Name=NetC1B_1
+Added Pin To Net: NetName=1IN+ Pin=R8-2
+Added Pin To Net: NetName=1IN+ Pin=R9-1
+Added Pin To Net: NetName=1IN+ Pin=IC1-1
+Added Net: Name=1IN+
+Added Pin To Net: NetName=1IN- Pin=R5-2
+Added Pin To Net: NetName=1IN- Pin=Rf-1
+Added Pin To Net: NetName=1IN- Pin=IC1-2
+Added Net: Name=1IN-
+Added Pin To Net: NetName=2IN+ Pin=J2-2
+Added Pin To Net: NetName=2IN+ Pin=Rsens-2
+Added Pin To Net: NetName=2IN+ Pin=IC1-16
+Added Net: Name=2IN+
+Added Pin To Net: NetName=2IN- Pin=R1-1
+Added Pin To Net: NetName=2IN- Pin=R2-2
+Added Pin To Net: NetName=2IN- Pin=IC1-15
+Added Net: Name=2IN-
+Added Pin To Net: NetName=C1 Pin=IC1-8
+Added Pin To Net: NetName=C1 Pin=IC2-1
+Added Net: Name=C1
+Added Pin To Net: NetName=DRV_HI Pin=Q1-1
+Added Pin To Net: NetName=DRV_HI Pin=IC2-7
+Added Net: Name=DRV_HI
+Added Pin To Net: NetName=DRV_LO Pin=Q2-1
+Added Pin To Net: NetName=DRV_LO Pin=IC2-4
+Added Net: Name=DRV_LO
+Added Pin To Net: NetName=DTC Pin=C2-2
+Added Pin To Net: NetName=DTC Pin=R6-2
+Added Pin To Net: NetName=DTC Pin=R7-2
+Added Pin To Net: NetName=DTC Pin=IC1-4
+Added Net: Name=DTC
+Added Pin To Net: NetName=FB Pin=Rf-2
+Added Pin To Net: NetName=FB Pin=IC1-3
+Added Net: Name=FB
+Added Pin To Net: NetName=NetCt_1 Pin=Ct-1
+Added Pin To Net: NetName=NetCt_1 Pin=IC1-5
+Added Net: Name=NetCt_1
+Added Pin To Net: NetName=NetIC1_11 Pin=IC1-11
+Added Pin To Net: NetName=NetIC1_11 Pin=IC2-2
+Added Net: Name=NetIC1_11
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=R4-1
+Added Pin To Net: NetName=NetR3_2 Pin=R5-1
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetRt_1 Pin=Rt-1
+Added Pin To Net: NetName=NetRt_1 Pin=IC1-6
+Added Net: Name=NetRt_1
+Added Pin To Net: NetName=REF Pin=C2-1
+Added Pin To Net: NetName=REF Pin=R2-1
+Added Pin To Net: NetName=REF Pin=R3-1
+Added Pin To Net: NetName=REF Pin=R7-1
+Added Pin To Net: NetName=REF Pin=IC1-14
+Added Net: Name=REF
+Added Member To Class: ClassName=Rectifier Member=Component C2R 470uF
+Added Member To Class: ClassName=Controller Member=Component C2 2.2u
+Added Member To Class: ClassName=Controller Member=Component Ct 1nF
+Added Member To Class: ClassName=Controller Member=Component R1 2k
+Added Member To Class: ClassName=Controller Member=Component R2 48k
+Added Member To Class: ClassName=Controller Member=Component R3 5.1k
+Added Member To Class: ClassName=Controller Member=Component R4 5.1k
+Added Member To Class: ClassName=Controller Member=Component R5 510
+Added Member To Class: ClassName=Controller Member=Component R6 1k
+Added Member To Class: ClassName=Controller Member=Component R7 9.1k
+Added Member To Class: ClassName=Controller Member=Component R8 23.5k
+Added Member To Class: ClassName=Controller Member=Component R9 2.5k
+Added Member To Class: ClassName=Controller Member=Component Rf 51k
+Added Member To Class: ClassName=Controller Member=Component Rt 4k
